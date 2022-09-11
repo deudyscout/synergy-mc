@@ -1,2 +1,2 @@
 # synergy-mc
-This is the minecraft files needed for the Synergy Minecraft server
+This git contains the mods needed to join the Synergy Minecraft server
